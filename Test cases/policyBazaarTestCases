@@ -1,1 +1,9 @@
+Test cases : 
+High level scenarios : 
 
+TC01 : Verify that the user is able to login with correct username and password
+TC02 : Test if the user is landing on the correct landing page
+TC03 : Test that the user is able to navigate to correct page with that particular LOB option
+TC04 : Test that the user is able to complete the flow and reach to the payments page
+TC05 : Test that the uset is able to complete the payment and reach till thank you page
+TC06 : Test if the user is able to get the policu number and COI from the thank you page    
