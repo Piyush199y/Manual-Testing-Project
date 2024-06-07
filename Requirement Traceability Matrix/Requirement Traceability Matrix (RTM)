@@ -1,1 +1,15 @@
+# Requirement Traceability Matrix (RTM)
 
+Project Name: PolicyBazaar Testing
+Date:
+Version: 
+
+Descriptions of the RTM Columns
+
+1 .Requirement ID: A unique identifier for each requirement.
+2 . Requirement Description: A brief description of the requirement.
+3 . Priority: The importance level of the requirement (e.g., High, Medium, Low).
+4 . Test Case ID: A unique identifier for each test case associated with the requirement.
+5 . Test Case Description: A brief description of the test case.
+6 . Status: The current status of the test case (e.g., Passed, Failed, In Progress, Not Executed).
+7 . Comments: Any additional comments or notes about the test case or requirement.
