@@ -3,7 +3,7 @@
 <u>Test Coverage :</u> 
 Definition: The percentage of test cases executed versus the total number of test cases.
 Formula: (Number of test cases executed / Total number of test cases) * 100
----
+
  
 <u>Defect Density :</u> 
 Definition: The number of defects identified per unit size of the software (e.g., per thousand lines of code).
