@@ -1,10 +1,10 @@
-Software Testing Projects : 
+#Software Testing Projects : 
 This repository contains a demo of the project completed during my manual testing period.
 The projects were completed using a combination of manual testing techniques and test management tools.
 
-Project Name	
+#Project Name	
 
-Policy Bazaar: 	Tested a web application Policy bazzar which is very similar to the actual company project for functionality and usability.
+Policy Bazaar: 	Tested a web application Policy bazzar which is very similar to my current project for functionality and usability.
 Due to confidentiality can not put the original project here but this is near about the same
 
 Contributing
