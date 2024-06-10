@@ -1,4 +1,4 @@
-# Software Testing Projects : 
+# Software Testing Project : 
 This repository contains a demo of the project completed during my manual testing period.
 The projects were completed using a combination of manual testing techniques and test management tools.
 
