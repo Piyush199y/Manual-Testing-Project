@@ -6,7 +6,7 @@ Version:
 
 Descriptions of the RTM Columns
 
-1 .Requirement ID: A unique identifier for each requirement.
+1 . Requirement ID: A unique identifier for each requirement.
 2 . Requirement Description: A brief description of the requirement.
 3 . Priority: The importance level of the requirement (e.g., High, Medium, Low).
 4 . Test Case ID: A unique identifier for each test case associated with the requirement.
